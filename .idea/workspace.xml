@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5220398e-a46f-4328-8740-cd7ab2bc85f8" name="更改" comment="Add gif generating function">
-      <change beforePath="$PROJECT_DIR$/generation_all.txt" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generation_all.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generation_all.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/genes/best/1" beforeDir="false" afterPath="$PROJECT_DIR$/genes/best/1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/genes/best/10" beforeDir="false" afterPath="$PROJECT_DIR$/genes/best/10" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/genes/best/11" beforeDir="false" afterPath="$PROJECT_DIR$/genes/best/11" afterDir="false" />
@@ -13,11 +16,13 @@
       <change beforePath="$PROJECT_DIR$/genes/best/13" beforeDir="false" afterPath="$PROJECT_DIR$/genes/best/13" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/genes/best/14" beforeDir="false" afterPath="$PROJECT_DIR$/genes/best/14" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/genes/best/16" beforeDir="false" afterPath="$PROJECT_DIR$/genes/best/16" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/genes/best/17" beforeDir="false" afterPath="$PROJECT_DIR$/genes/best/17" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/genes/best/18" beforeDir="false" afterPath="$PROJECT_DIR$/genes/best/18" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/genes/best/19" beforeDir="false" afterPath="$PROJECT_DIR$/genes/best/19" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/genes/best/2" beforeDir="false" afterPath="$PROJECT_DIR$/genes/best/2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/genes/best/21" beforeDir="false" afterPath="$PROJECT_DIR$/genes/best/21" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/genes/best/22" beforeDir="false" afterPath="$PROJECT_DIR$/genes/best/22" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/genes/best/23" beforeDir="false" afterPath="$PROJECT_DIR$/genes/best/23" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/genes/best/24" beforeDir="false" afterPath="$PROJECT_DIR$/genes/best/24" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/genes/best/25" beforeDir="false" afterPath="$PROJECT_DIR$/genes/best/25" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/genes/best/27" beforeDir="false" afterPath="$PROJECT_DIR$/genes/best/27" afterDir="false" />
@@ -26,6 +31,7 @@
       <change beforePath="$PROJECT_DIR$/genes/best/3" beforeDir="false" afterPath="$PROJECT_DIR$/genes/best/3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/genes/best/30" beforeDir="false" afterPath="$PROJECT_DIR$/genes/best/30" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/genes/best/31" beforeDir="false" afterPath="$PROJECT_DIR$/genes/best/31" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/genes/best/32" beforeDir="false" afterPath="$PROJECT_DIR$/genes/best/32" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/genes/best/33" beforeDir="false" afterPath="$PROJECT_DIR$/genes/best/33" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/genes/best/34" beforeDir="false" afterPath="$PROJECT_DIR$/genes/best/34" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/genes/best/35" beforeDir="false" afterPath="$PROJECT_DIR$/genes/best/35" afterDir="false" />
@@ -136,6 +142,24 @@
       <change beforePath="$PROJECT_DIR$/genes/parents/97" beforeDir="false" afterPath="$PROJECT_DIR$/genes/parents/97" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/genes/parents/98" beforeDir="false" afterPath="$PROJECT_DIR$/genes/parents/98" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/genes/parents/99" beforeDir="false" afterPath="$PROJECT_DIR$/genes/parents/99" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gifs/best_1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/gifs/best_1.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gifs/best_11.gif" beforeDir="false" afterPath="$PROJECT_DIR$/gifs/best_11.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gifs/best_13.gif" beforeDir="false" afterPath="$PROJECT_DIR$/gifs/best_13.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gifs/best_14.gif" beforeDir="false" afterPath="$PROJECT_DIR$/gifs/best_14.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gifs/best_16.gif" beforeDir="false" afterPath="$PROJECT_DIR$/gifs/best_16.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gifs/best_18.gif" beforeDir="false" afterPath="$PROJECT_DIR$/gifs/best_18.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gifs/best_19.gif" beforeDir="false" afterPath="$PROJECT_DIR$/gifs/best_19.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gifs/best_2.gif" beforeDir="false" afterPath="$PROJECT_DIR$/gifs/best_2.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gifs/best_24.gif" beforeDir="false" afterPath="$PROJECT_DIR$/gifs/best_24.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gifs/best_27.gif" beforeDir="false" afterPath="$PROJECT_DIR$/gifs/best_27.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gifs/best_29.gif" beforeDir="false" afterPath="$PROJECT_DIR$/gifs/best_29.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gifs/best_3.gif" beforeDir="false" afterPath="$PROJECT_DIR$/gifs/best_3.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gifs/best_30.gif" beforeDir="false" afterPath="$PROJECT_DIR$/gifs/best_30.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gifs/best_33.gif" beforeDir="false" afterPath="$PROJECT_DIR$/gifs/best_33.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gifs/best_4.gif" beforeDir="false" afterPath="$PROJECT_DIR$/gifs/best_4.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gifs/best_5.gif" beforeDir="false" afterPath="$PROJECT_DIR$/gifs/best_5.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gifs/best_6.gif" beforeDir="false" afterPath="$PROJECT_DIR$/gifs/best_6.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gifs/best_8.gif" beforeDir="false" afterPath="$PROJECT_DIR$/gifs/best_8.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/seed/1" beforeDir="false" afterPath="$PROJECT_DIR$/seed/1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/seed/10" beforeDir="false" afterPath="$PROJECT_DIR$/seed/10" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/seed/11" beforeDir="false" afterPath="$PROJECT_DIR$/seed/11" afterDir="false" />
@@ -143,11 +167,13 @@
       <change beforePath="$PROJECT_DIR$/seed/13" beforeDir="false" afterPath="$PROJECT_DIR$/seed/13" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/seed/14" beforeDir="false" afterPath="$PROJECT_DIR$/seed/14" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/seed/16" beforeDir="false" afterPath="$PROJECT_DIR$/seed/16" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seed/17" beforeDir="false" afterPath="$PROJECT_DIR$/seed/17" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/seed/18" beforeDir="false" afterPath="$PROJECT_DIR$/seed/18" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/seed/19" beforeDir="false" afterPath="$PROJECT_DIR$/seed/19" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/seed/2" beforeDir="false" afterPath="$PROJECT_DIR$/seed/2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/seed/21" beforeDir="false" afterPath="$PROJECT_DIR$/seed/21" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/seed/22" beforeDir="false" afterPath="$PROJECT_DIR$/seed/22" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seed/23" beforeDir="false" afterPath="$PROJECT_DIR$/seed/23" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/seed/24" beforeDir="false" afterPath="$PROJECT_DIR$/seed/24" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/seed/25" beforeDir="false" afterPath="$PROJECT_DIR$/seed/25" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/seed/27" beforeDir="false" afterPath="$PROJECT_DIR$/seed/27" afterDir="false" />
@@ -156,6 +182,7 @@
       <change beforePath="$PROJECT_DIR$/seed/3" beforeDir="false" afterPath="$PROJECT_DIR$/seed/3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/seed/30" beforeDir="false" afterPath="$PROJECT_DIR$/seed/30" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/seed/31" beforeDir="false" afterPath="$PROJECT_DIR$/seed/31" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seed/32" beforeDir="false" afterPath="$PROJECT_DIR$/seed/32" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/seed/33" beforeDir="false" afterPath="$PROJECT_DIR$/seed/33" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/seed/34" beforeDir="false" afterPath="$PROJECT_DIR$/seed/34" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/seed/35" beforeDir="false" afterPath="$PROJECT_DIR$/seed/35" afterDir="false" />
@@ -166,7 +193,6 @@
       <change beforePath="$PROJECT_DIR$/seed/7" beforeDir="false" afterPath="$PROJECT_DIR$/seed/7" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/seed/8" beforeDir="false" afterPath="$PROJECT_DIR$/seed/8" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/seed/9" beforeDir="false" afterPath="$PROJECT_DIR$/seed/9" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,6 +227,7 @@
     "Python.train.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "pluto",
     "settings.editor.selected.configurable": "com.github.copilot.settings.general.GeneralConfigurable"
   }
@@ -228,7 +255,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757495931134</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add gif generating function">
+      <option name="closed" value="true" />
+      <created>1757505877994</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1757505877994</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
